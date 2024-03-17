@@ -1,4 +1,3 @@
-from typing import Any
 
 from kivy.app import App
 from kivy.uix.label import Label
@@ -7,7 +6,6 @@ from kivy.uix.gridlayout import GridLayout
 from kivy.uix.textinput import TextInput
 from kivy.uix.widget import Widget
 from kivy.graphics import Color, Rectangle
-#import matplotlib.pyplot as plt
 from kivy.uix.button import Button
 import math
 
